@@ -19,7 +19,7 @@ Contact: [Telegram](https://t.me/SmexyOP)
 
 ## Deploy To Heroku
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/navedmohammad/Muuskan)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bhuriya12/Muuskan-txt)
 
 ## vars.py [vars.py](https://github.com/telegrambots0/SmexyTxtLeech/blob/main/modules/vars.py)
 
