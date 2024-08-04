@@ -1,10 +1,10 @@
 <h1 align="center">
-  <b>Text Leech Video Extractor Bot By <a href="https://t.me/SmexyOP"> 𝙎𝙢𝙚𝙭𝙮 ᥫ᭡ </a>
+  <b>Text Leech Video Extractor Bot By <a href="https://t.me/Bhuriyag3 </a>
 </h1> 
 
 <img src="https://graph.org/file/c9669066860d912fd5035.jpg" alt="StringGen">
 
-Contact: [Telegram](https://t.me/SmexyOP)
+Contact: [Telegram](https://t.me/Bhuriyag3)
 
 <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/line-neon.gif" width="100%">
@@ -54,10 +54,9 @@ SmexyOP - 🎬 Txt file upload
 </p>
  
 -----
-Credits: [𝙎𝙢𝙚𝙭𝙮 ᥫ᭡](http://t.me/SmexyOP)
-Powered By: [𝙎𝙈𝙀𝙓𝙔 𝙎𝙏𝙊𝙍𝙀 🇮🇳](http://t.me/SmexyStore)
-
-Last Edited on: 29/05/2024
+Credits: [𝙎𝙢𝙚𝙭𝙮 ᥫ᭡](http://t.me/Bhuriyag3)
+Powered By: [𝙎𝙈𝙀𝙓𝙔 𝙎𝙏𝙊𝙍𝙀 🇮🇳](http://t.me/Bhuriyag3)
+Last Edited on: 04/08/2024
 # MG-Notes
 # deploy to railway
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/0MCpi4?referralCode=OCkeMo)
