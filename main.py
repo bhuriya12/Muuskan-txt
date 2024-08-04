@@ -41,11 +41,11 @@ async def account_login(bot: Client, m: Message):
 🤖𝐌𝐚𝐝𝐞 𝐁𝐲  : [ 🅱️🅷🆄🆁🅸🆈🅰️](http://t.me/Bhuriyag3 """, reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("✜ 𝐌𝐮𝐬𝐭 𝐉𝐨𝐢𝐧 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ✜" ,url=f"https://t.me/https://t.me/+tTJqpPXcT6o5ODUx") ],
+                    InlineKeyboardButton("✜ 𝐌𝐮𝐬𝐭 𝐉𝐨𝐢𝐧 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ✜" ,url=f"https://t.me/+4NK6I42ovTs3ZWVh") ],
                     [
-                    InlineKeyboardButton("✜◆ 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 ◆✜" ,url="https://t.me/https://t.me/Bhuriyag3") ],
+                    InlineKeyboardButton("✜◆ 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 ◆✜" ,url="https://t.me/+4NK6I42ovTs3ZWVh") ],
                     [
-                    InlineKeyboardButton("🦋 𝐅𝐨𝐥𝐥𝐨𝐰 𝐌𝐞 🦋" ,url="https://t.me/https://t.me/+tTJqpPXcT6o5ODUx") ]                               
+                    InlineKeyboardButton("🦋 𝐅𝐨𝐥𝐥𝐨𝐰 𝐌𝐞 🦋" ,url="https://t.me/+4NK6I42ovTs3ZWVh") ]                               
             ]))
 
 
