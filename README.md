@@ -54,8 +54,8 @@ SmexyOP - 🎬 Txt file upload
 </p>
  
 -----
-Credits: [𝙎𝙢𝙚𝙭𝙮 ᥫ᭡](http://t.me/Bhuriyag3)
-Powered By: [𝙎𝙈𝙀𝙓𝙔 𝙎𝙏𝙊𝙍𝙀 🇮🇳](http://t.me/Bhuriyag3)
+Credits: [🅱️🅷🆄🆁🅸🆈🅰️](http://t.me/Bhuriyag3)
+Powered By: [🅱️🅷🆄🆁🅸🆈🅰️](http://t.me/Bhuriyag3)
 Last Edited on: 04/08/2024
 # MG-Notes
 # deploy to railway
